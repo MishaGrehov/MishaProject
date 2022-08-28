@@ -1,0 +1,5 @@
+C:\Users\Михаил\Source\Repos\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+C:\Users\Михаил\Source\Repos\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+C:\Users\Михаил\Source\Repos\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+C:\Users\Михаил\Source\Repos\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+C:\Users\Михаил\Source\Repos\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
