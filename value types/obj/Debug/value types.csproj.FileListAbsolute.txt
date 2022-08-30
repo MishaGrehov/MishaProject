@@ -1,0 +1,6 @@
+C:\Users\Михаил\Source\Repos\value types\bin\Debug\value types.exe.config
+C:\Users\Михаил\Source\Repos\value types\bin\Debug\value types.exe
+C:\Users\Михаил\Source\Repos\value types\bin\Debug\value types.pdb
+C:\Users\Михаил\Source\Repos\value types\obj\Debug\value types.csprojAssemblyReference.cache
+C:\Users\Михаил\Source\Repos\value types\obj\Debug\value types.exe
+C:\Users\Михаил\Source\Repos\value types\obj\Debug\value types.pdb

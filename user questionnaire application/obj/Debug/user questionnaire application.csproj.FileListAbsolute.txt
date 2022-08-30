@@ -1,0 +1,6 @@
+C:\Users\Михаил\Source\Repos\user questionnaire application\bin\Debug\user questionnaire application.exe.config
+C:\Users\Михаил\Source\Repos\user questionnaire application\bin\Debug\user questionnaire application.exe
+C:\Users\Михаил\Source\Repos\user questionnaire application\bin\Debug\user questionnaire application.pdb
+C:\Users\Михаил\Source\Repos\user questionnaire application\obj\Debug\user questionnaire application.csprojAssemblyReference.cache
+C:\Users\Михаил\Source\Repos\user questionnaire application\obj\Debug\user questionnaire application.exe
+C:\Users\Михаил\Source\Repos\user questionnaire application\obj\Debug\user questionnaire application.pdb
